@@ -1,6 +1,6 @@
-#NAME - -  Specialist
-#SERVICE 1:64:1:0:0:0:0:0:0:0::28.2E -- Specialist --
-#DESCRIPTION 28.2E -- Specialist --
+#NAME FreeSat UK - Separator
+#SERVICE 1:64:0:0:0:0:0:0:0:0:
+#DESCRIPTION FreeSat UK - Separator
 #SERVICE 1:832:d:0:0:0:0:0:0:0:
 #DESCRIPTION  
 #SERVICE 1:832:d:0:0:0:0:0:0:0:
@@ -11,8 +11,8 @@
 #DESCRIPTION  
 #SERVICE 1:832:d:0:0:0:0:0:0:0:
 #DESCRIPTION  
-#SERVICE 1:0:1:D7BA:840:2:11A0000:0:0:0::886 - Psychic Today
-#DESCRIPTION 886 - Psychic Today
+#SERVICE 1:832:d:0:0:0:0:0:0:0:
+#DESCRIPTION  
 #SERVICE 1:832:d:0:0:0:0:0:0:0:
 #DESCRIPTION  
 #SERVICE 1:832:d:0:0:0:0:0:0:0:
