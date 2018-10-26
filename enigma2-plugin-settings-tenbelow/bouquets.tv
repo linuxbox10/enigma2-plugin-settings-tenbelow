@@ -1,5 +1,18 @@
 #NAME User - bouquets (TV)
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.abm.sat_282_freesat.main.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.abm.sat_282_freesat.101.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.abm.sat_282_freesat.200.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.abm.sat_282_freesat.300.tv" ORDER BY bouquet
+#SERVICE 1:519:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.abm.sat_282_freesat.400.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.abm.sat_282_freesat.500.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.abm.sat_282_freesat.600.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.abm.sat_282_freesat.650.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.abm.sat_282_freesat.800.tv" ORDER BY bouquet
+#SERVICE 1:519:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.abm.sat_282_freesat.870.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.abm.sat_282_freesat.950.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.abm.sat_282_freesat.980.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.abm.sat_282_freesat.998.tv" ORDER BY bouquet
+#SERVICE 1:519:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.abm.sat_282_freesat.999.tv" ORDER BY bouquet
 #SERVICE 1:519:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.abm.sat_282_freesat.separator.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.abm.sat_282_freesat.hd.tv" ORDER BY bouquet
 #SERVICE 1:519:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.favourites.tv" ORDER BY bouquet
-#SERVICE 1:519:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.LastScanned.tv" ORDER BY bouquet
